@@ -18,3 +18,9 @@
 <li>All angles @ 90 degrees. (even the rails/grass etc XD)</li>
 <li>All spacing even... OCD even</li>
 </ul>
+
+## How to switch versions:
+To view all assets and to switch between asset pack versions, click the branch button "main", and select the version you want to see.
+
+The latest early access version is stored in "ea-latest".
+<img src="https://github.com/JustSylph/cBd/blob/main/branch.png" alt="shows how to switch between branches">
