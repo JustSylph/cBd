@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/JustSylph/cBd/blob/main/icon.png" alt="cBd pack version:0.00">
+<img src="https://github.com/JustSylph/cBd/blob/main/icon.png" alt="cBd pack version:0.00" height="256px">
 <p>cbd(or cubed) is an asset pack for Allumeria</p>
 <p>inspired by oCd</p>
 <p>⚠️ this pack is a work in progress ⚠️</p>
